@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Remote Python 3.11.2 (sftp://admin@ec2-15-236-123-68.eu-west-3.compute.amazonaws.com:22/home/admin/bin/python)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.11.2 (sftp://admin@ec2-15-236-123-68.eu-west-3.compute.amazonaws.com:22/home/admin/bin/python)" project-jdk-type="Python SDK" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+    <option name="myConnectionId" value="" />
+  </component>
+</project>
